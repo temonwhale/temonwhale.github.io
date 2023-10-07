@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://temonwhale.github.io/sitemap.xml
