@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>demo on Temon Whale</title>
-    <link>https://temonwhale.github.io/tags/demo/</link>
+    <link>https://temonwhale.com/tags/demo/</link>
     <description>Recent content in demo on Temon Whale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Temon Whale</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circle Trap (Demo)</title>
-      <link>https://temonwhale.github.io/music/0001-circle_trap_demo/</link>
+      <link>https://temonwhale.com/music/0001-circle_trap_demo/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://temonwhale.github.io/music/0001-circle_trap_demo/</guid>
+      <guid>https://temonwhale.com/music/0001-circle_trap_demo/</guid>
       <description>Bandcamp SoundCloud YouTube Bilibili 🐦</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.github.io/music/0001-circle_trap_demo/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.com/music/0001-circle_trap_demo/featured.jpg" />
     </item>
     
   </channel>
