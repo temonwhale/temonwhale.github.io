@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Welcome!</title>
+      <link>https://temonwhale.com/news/0001-welcome/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/news/0001-welcome/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.com/news/0001-welcome/featured.jpg" />
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://temonwhale.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

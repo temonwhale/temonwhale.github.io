@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Temon Whale</title>
-    <link>https://temonwhale.com/news/</link>
-    <description>Recent content in News on Temon Whale</description>
+    <title>开门大吉 on Temon Whale</title>
+    <link>https://temonwhale.com/tags/%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89/</link>
+    <description>Recent content in 开门大吉 on Temon Whale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Temon Whale</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
       <link>https://temonwhale.com/news/0001-welcome/</link>
