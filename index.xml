@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Temon Whale</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music is everywhere</title>
+      <link>https://temonwhale.com/blogs/0001-music_is_everywhere/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/blogs/0001-music_is_everywhere/</guid>
+      <description>Big statement, but it is real!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.com/blogs/0001-music_is_everywhere/featured.jpg" />
+    </item>
+    
     <item>
       <title>Circle Trap (Demo)</title>
       <link>https://temonwhale.com/music/0001-circle_trap_demo/</link>

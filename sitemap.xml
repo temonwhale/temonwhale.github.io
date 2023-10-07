@@ -4,6 +4,39 @@
   
     
       <url>
+            <loc>https://temonwhale.com/blogs/</loc>
+            <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://temonwhale.com/blogs/0001-music_is_everywhere/</loc>
+            <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://temonwhale.com/</loc>
+            <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
             <loc>https://temonwhale.com/music/0001-circle_trap_demo/</loc>
             <lastmod>2023-10-04T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -38,30 +71,9 @@
     
   
     
-  
-    
-      <url>
-            <loc>https://temonwhale.com/</loc>
-            <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
       <url>
             <loc>https://temonwhale.com/news/0001-welcome/</loc>
             <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://temonwhale.com/blogs/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
