@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>song stories on Temon Whale</title>
+    <link>https://temonwhale.com/tags/song-stories/</link>
+    <description>Recent content in song stories on Temon Whale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Temon Whale</copyright>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/song-stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A message from and to ourselves</title>
+      <link>https://temonwhale.com/blogs/0002-a_message_from_and_to_ourselves/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/blogs/0002-a_message_from_and_to_ourselves/</guid>
+      <description>I sometimes panic</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.com/blogs/0002-a_message_from_and_to_ourselves/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

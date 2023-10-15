@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Temon Whale</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/emotion-bank/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/emotion-bank/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Her</title>
+      <link>https://temonwhale.com/music/0002-her/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/music/0002-her/</guid>
+      <description>Spotify Apple Music Bandcamp QQ音乐 🦋</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.com/music/0002-her/featured.jpg" />
+    </item>
+    
     <item>
       <title>Circle Trap (Demo)</title>
       <link>https://temonwhale.com/music/0001-circle_trap_demo/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://temonwhale.com/music/0001-circle_trap_demo/</guid>
-      <description>Bandcamp SoundCloud YouTube Bilibili 🐦</description>
+      <description>Bandcamp SoundCloud YouTube 哔哩哔哩 🐦</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://temonwhale.com/music/0001-circle_trap_demo/featured.jpg" />
     </item>
     
