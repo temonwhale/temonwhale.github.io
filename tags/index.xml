@@ -7,9 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Temon Whale</copyright>
-    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://temonwhale.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>song stories</title>
+      <title>Music</title>
+      <link>https://temonwhale.com/tags/music/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/tags/music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Single</title>
+      <link>https://temonwhale.com/tags/single/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/tags/single/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The first Calendar</title>
+      <link>https://temonwhale.com/tags/the-first-calendar/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/tags/the-first-calendar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Van Gogh</title>
+      <link>https://temonwhale.com/tags/van-gogh/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://temonwhale.com/tags/van-gogh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Song Stories</title>
       <link>https://temonwhale.com/tags/song-stories/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -19,7 +59,7 @@
     </item>
     
     <item>
-      <title>songwriting</title>
+      <title>Songwriting</title>
       <link>https://temonwhale.com/tags/songwriting/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -29,7 +69,7 @@
     </item>
     
     <item>
-      <title>thoughts</title>
+      <title>Thoughts</title>
       <link>https://temonwhale.com/tags/thoughts/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -39,7 +79,7 @@
     </item>
     
     <item>
-      <title>emotion bank</title>
+      <title>Emotion Bank</title>
       <link>https://temonwhale.com/tags/emotion-bank/</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -49,27 +89,7 @@
     </item>
     
     <item>
-      <title>music</title>
-      <link>https://temonwhale.com/tags/music/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://temonwhale.com/tags/music/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>single</title>
-      <link>https://temonwhale.com/tags/single/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://temonwhale.com/tags/single/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>demo</title>
+      <title>Demo</title>
       <link>https://temonwhale.com/tags/demo/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -79,7 +99,7 @@
     </item>
     
     <item>
-      <title>message</title>
+      <title>Message</title>
       <link>https://temonwhale.com/tags/message/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
